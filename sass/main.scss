@@ -1,6 +1,6 @@
 
-$primary: #c29938;
-$light: #fbf5e5;
+$primary: #ffa202;
+$light: #93D7D6;
 $zindex-offcanvas: 1095;
 
 
@@ -11,8 +11,8 @@ $zindex-offcanvas: 1095;
 
 
 $custom-theme-colors: (
-  "altlight": #f2ebfa,
-  "altdark": #522192
+  "altlight": #fe9bba,
+  "altdark": #ff3473,
 );
 
 $theme-colors: map-merge($theme-colors, $custom-theme-colors);
